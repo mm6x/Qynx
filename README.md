@@ -1,7 +1,7 @@
 # Qynx - P2P Sharing Web Application
 
 <p align="center">
-  <img src="qynx.jpeg" alt="Qynx Logo" width="200" height="auto" />
+  <img src="public/favicon.png" alt="Qynx Logo" width="200" height="auto" />
 </p>
 
 <p align="center">
