@@ -4,10 +4,6 @@
   <img src="public/favicon.png" alt="Qynx Logo" width="200" height="auto" />
 </p>
 
-<p align="center">
-  <img src="public/favicon.png" alt="Qynx Favicon" width="16" height="16" />
-</p>
-
 A Modern, P2P file sharing web application built with Next.js, featuring drag & drop uploads, password-protected downloads, and a beautiful glassmorphism UI.
 
 ## Features
